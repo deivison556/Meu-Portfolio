@@ -30,7 +30,7 @@ header nav a {
 }
 
 #button {
-    display: inline;
+    display: inline-block;
     background-color: #BA1F33;
     height: 60px;
     line-height: 60px;
